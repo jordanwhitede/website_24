@@ -8,6 +8,8 @@ socialShare: false
 toc: false
 ---
 
+{{< youtube pP3xl4xRJAY >}}
+
 #### White-Reznichenko Quintet
 
 Friends since 2016, survivors of a jammed elevator door in 2019, Olga and Jordan started the White-Reznichenko Quintet in 2022. Inviting three stars of the german jazz scene in Peter Ehwald, Jonas Westergaard and John Schröder, Olga and Jordan hope to shamelessly profit from the musicality and experience of their older, wiser colleagues. Five strongly contrasting personalities combine to create equally contrasting music.

@@ -142,6 +142,11 @@ params:
             #      customIcons:
             #- icon: /fav.png
             #url: "https://example.com"
+    # just seeing if this works for now
+  
+            #{{< bandcamp 3833210465 >}}
+
+            #  {{< youtube pP3xl4xRJAY >}}
 
   # About
   about:
