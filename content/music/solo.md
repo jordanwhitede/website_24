@@ -2,6 +2,8 @@
 title: "Solo"
 date: 2025-05-19
 draft: false
+toc: false
+social: false
 ---
 
 

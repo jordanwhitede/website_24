@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Jordan White</title>
-    <link>https://hugo-profile.netlify.app/blogs/</link>
+    <link>http://localhost:1313/blogs/</link>
     <description>Recent content in Blogs on Jordan White</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 May 2024 16:08:35 +0000</lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>White-Reznichenko Quintet</title>
-      <link>https://hugo-profile.netlify.app/blogs/white-reznichenko/</link>
+      <link>http://localhost:1313/blogs/white-reznichenko/</link>
       <pubDate>Sun, 19 May 2024 16:08:35 +0000</pubDate>
-      <guid>https://hugo-profile.netlify.app/blogs/white-reznichenko/</guid>
+      <guid>http://localhost:1313/blogs/white-reznichenko/</guid>
       <description>White-Reznichenko Quintet Friends since 2016, survivors of a jammed elevator door in 2019, Olga and Jordan started the White-Reznichenko Quintet in 2022. Inviting three stars of the german jazz scene in Peter Ehwald, Jonas Westergaard and John Schröder, Olga and Jordan hope to shamelessly profit from the musicality and experience of their older, wiser colleagues. Five strongly contrasting personalities combine to create equally contrasting music.&#xA;Jordan White - Guitar, Composition</description>
     </item>
   </channel>
