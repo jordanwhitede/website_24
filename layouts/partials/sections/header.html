@@ -121,6 +121,15 @@
                     </li>
                     {{ end }}
 
+                    {{ if and (.Site.Params.Other.enable | default false) (not (.Site.Params.navbar.menus.disableOther | default false)) }}
+                    <li class="nav-item navbar-text">
+                        <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#other"
+                            aria-label="other">
+                            {{ .Site.Params.Other.title | default "Other" }}
+                        </a>
+                    </li>
+                    {{ end }}
+
                     {{ if and (.Site.Params.achievements.enable | default false) (not (.Site.Params.navbar.menus.disableAchievements | default false)) }}
                     <li class="nav-item navbar-text">
                         <a class="nav-link" href="{{ .Site.BaseURL | relURL }}#achievements"

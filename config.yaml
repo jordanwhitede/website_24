@@ -207,8 +207,7 @@ params:
           - icon: fab fa-instagram
             url: https://www.instagram.com/come_closer_weimar/
 
-  # other projects - why is this in light mode?
-  achievements: 
+  other: 
     enable: true
     title: "Other Projects I've Worked On"
     items:
