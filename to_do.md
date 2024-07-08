@@ -4,7 +4,6 @@ TO DO - all questions for Anya now :)
 - embed videos + bandcamp albums to home page - potentially another "module" or 2 for "videos / releases"
 - embed videos to sub-pages - white-reznichenko / solo
 - photo credits - how to add these? legal requirement!
-- why does white-reznichenko page work, but not solo? 
 
 NICE TO HAVE
 - pages - remove date + reading time
