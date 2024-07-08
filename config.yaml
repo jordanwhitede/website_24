@@ -129,7 +129,7 @@ params:
     content: "Musician, Organiser, Teacher"
     image: /images/header.jpg
     bottomImage:
-      enable: true
+      enable: false
     # roundImage: true # Make hero image circular | default false
     socialLinks:
       fontAwesomeIcons:

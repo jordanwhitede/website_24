@@ -1,6 +1,6 @@
 TO DO - all questions for Anya now :)
 
-- home page layout - get rid of big gap, few bigger photos? 
+- home page layout - few bigger photos? 
 - embed videos + bandcamp albums to home page - potentially another "module" or 2 for "videos / releases"
 - embed videos to sub-pages - white-reznichenko / solo
 - photo credits - how to add these? legal requirement!
