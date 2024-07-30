@@ -15,5 +15,12 @@
       <guid>http://localhost:1313/music/white-reznichenko/</guid>
       <description>White-Reznichenko Quintet Friends since 2016, survivors of a jammed elevator door in 2019, Olga and Jordan started the White-Reznichenko Quintet in 2022. Inviting three stars of the german jazz scene in Peter Ehwald, Jonas Westergaard and John Schröder, Olga and Jordan hope to shamelessly profit from the musicality and experience of their older, wiser colleagues. Five strongly contrasting personalities combine to create equally contrasting music.&#xA;Jordan White - Guitar, Composition</description>
     </item>
+    <item>
+      <title>Solo</title>
+      <link>http://localhost:1313/music/solo/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/music/solo/</guid>
+      <description>I&amp;rsquo;m active in solo contexts both as a guitarist and an electronic performer - ideally, combining both. I&amp;rsquo;m currently working on a solo album, to be released around October, in which guitar improvisations are processed and manipulated exclusively using effects I&amp;rsquo;ve written myself in SuperCollider (and, slowly, C++). Here&amp;rsquo;s also a link to my previous solo release.</description>
+    </item>
   </channel>
 </rss>
