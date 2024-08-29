@@ -34,7 +34,6 @@ header .navbar .navbar-nav a {
 .navbar-text {
     font-size: 16px !important;
     opacity: 0.95;
-    white-space: nowrap;
 }
 header .nav-link{
     transition: none !important;
@@ -45,10 +44,6 @@ header .nav-link{
 } 
 .navbar .nav-link:hover {
     color: var(--primary-color) !important;
-}
-.nav-link.nav-link-sep:after {
-    content: "|";
-    color: var(--text-color) !important;
 }
 
 li > .dropdown-toggle:focus{
@@ -68,10 +63,6 @@ li > .dropdown-toggle:focus{
 
 .dropdown-item:focus, .dropdown-item:active {
     background-color: var(--secondary-color) !important;
-}
-
-.dropdown-divider {
-	border-top: 1px solid var(--lt-color-border-dark);
 }
 
 #search {
