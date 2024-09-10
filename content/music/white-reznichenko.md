@@ -4,11 +4,12 @@ date: 2024-05-19T16:08:35
 readTime: false 
 draft: false
 image: /images/olgajordan.jpg
-socialShare: false
 toc: false
 ---
 
 {{< youtube pP3xl4xRJAY >}}
+
+<br />
 
 #### White-Reznichenko Quintet
 

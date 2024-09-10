@@ -281,11 +281,14 @@ params:
 
   # Single pages like blog and post
   singlePages:
+    socialShare: false
     readTime:
-      enable: true
+      enable: false
       content: "min read"
     scrollprogress:
       enable: true
+    tags:
+      openInNewTab: true
 
   # For translations
   terms:
@@ -296,7 +299,7 @@ params:
     emailText: "Check out this site"
 
   datesFormat:
-    article: "Jan 2, 2006"
+    article: " "
     articleList: "Jan 2, 2006"
     articleRecent: "Jan 2, 2006"
 
