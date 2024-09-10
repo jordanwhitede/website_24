@@ -1,4 +1,4 @@
-baseURL: "https://jordanwhite.de"
+baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Jordan White"
 theme: hugo-profile
@@ -125,7 +125,7 @@ params:
     enable: true
       #  intro: "Hi, my name is"
     title: "Jordan White"
-    subtitle: "site currently being rebuilt!"
+    # subtitle:
     content: "Musician, Organiser, Teacher"
     image: /images/header.jpg
     bottomImage:
