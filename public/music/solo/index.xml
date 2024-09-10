@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solo on Jordan White</title>
-    <link>https://hugo-profile.netlify.app/music/solo/</link>
+    <link>http://localhost:1313/music/solo/</link>
     <description>Recent content in Solo on Jordan White</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://hugo-profile.netlify.app/music/solo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/music/solo/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

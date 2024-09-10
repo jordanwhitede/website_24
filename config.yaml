@@ -1,4 +1,4 @@
-baseURL: "https://jordanwhite.de"
+baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Jordan White"
 theme: hugo-profile
@@ -123,9 +123,9 @@ params:
   # Hero
   hero:
     enable: true
-      #  intro: "Hi, my name is"
+    #  intro: "Hi, my name is"
     title: "Jordan White"
-    subtitle: "site currently being rebuilt!"
+    # subtitle:
     content: "Musician, Organiser, Teacher"
     image: /images/header.jpg
     bottomImage:
@@ -239,21 +239,21 @@ params:
           - icon: fab fa-instagram
             url: https://www.instagram.com/yiddishsummerweimar/
 
-#       - title: YoWo Music
-#         content: A project for teenage girls and queer teens to be coached in contemporary music. I helped found YoWo back in 2015, although most of the heavy lifting really occured after I moved to Germany in mid-2016 - but I'm still super proud of what it's become. Unfortunately, it closed down recently.
-#         image: /images/yowo.jpg
-#         featured:
-#           name: More...
-#           link: https://www.yowomusic.com/
-#           badges: 
-#             - "Project Management"
-#             - "Culture"
-#           links: 
-#             - icon: fab fa-instagram
-#               url: https://www.instagram.com/yowomusic/
-#             - icon: fab fa-bandcamp
-#               url: https://yowomusic.bandcamp.com/music
-# 
+      # - title: YoWo Music
+      #   content: A project for teenage girls and queer teens to be coached in contemporary music. I helped found YoWo back in 2015, although most of the heavy lifting really occured after I moved to Germany in mid-2016 - but I'm still super proud of what it's become. Unfortunately, it closed down recently.
+      #   image: /images/yowo.jpg
+      #   featured:
+      #     name: More...
+      #     link: https://www.yowomusic.com/
+      #     badges: 
+      #       - "Project Management"
+      #       - "Culture"
+      #     links: 
+      #       - icon: fab fa-instagram
+      #         url: https://www.instagram.com/yowomusic/
+      #       - icon: fab fa-bandcamp
+      #         url: https://yowomusic.bandcamp.com/music
+
   #Contact
   contact:
     enable: true
