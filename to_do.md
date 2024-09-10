@@ -1,7 +1,3 @@
-MAJOR ISSUE
-
-i tried to make some minor updates. unfortunately the site is no longer building. it seems to be a submodule issue. i've tried out a few things and had basically zero progress :) 
-
 TO DO - all questions for Anya now :)
 
 <<<<<<< HEAD
