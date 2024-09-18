@@ -7,6 +7,8 @@ image: /images/olgajordan.jpg
 toc: false
 ---
 
+{{< youtube p0Yelyues8Y >}}
+
 {{< youtube pP3xl4xRJAY >}}
 
 <br />
