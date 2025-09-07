@@ -127,7 +127,7 @@ params:
     title: "Jordan White"
     # subtitle:
     content: "Musician, Organiser, Teacher"
-    image: /images/header.jpg
+    image: /images/nastya.jpg
     bottomImage:
       enable: false
     # roundImage: true # Make hero image circular | default false
