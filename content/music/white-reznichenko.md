@@ -9,8 +9,6 @@ toc: false
 
 {{< youtube p0Yelyues8Y >}}
 
-{{< youtube pP3xl4xRJAY >}}
-
 <br />
 
 #### White-Reznichenko Quintet
@@ -23,3 +21,6 @@ Jordan White - Guitar, Composition
 Jonas Westergaard - Bass  
 [John Schröder](https://john-schroeder.de/) - Drums  
 
+<br />
+
+{{< youtube pP3xl4xRJAY >}}

@@ -6,8 +6,12 @@ toc: false
 social: false
 ---
 
-{{< youtube 6VpF7hmT5Gg >}}
+{{< youtube O15XAzWLzGk >}}
 
 <br />
 
-I'm active in solo contexts both as a guitarist and an electronic performer - ideally, combining both. I'm currently working on a solo album, to be released around October, in which guitar improvisations are processed and manipulated exclusively using effects I've written myself in SuperCollider (and, slowly, C++). Here's also a link to my previous solo release.
+I'm active in solo contexts both as a guitarist and an electronic performer - ideally, combining both. This year I've released three new solo albums - one developed over a long time with a bunch of great guests, the other two recorded live on tour at locations in Weimar and Gera. They can all be bought [here](https://www.jordan-white.bandcamp.com).
+
+<br />
+
+{{< youtube 6VpF7hmT5Gg >}}
