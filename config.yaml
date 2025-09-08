@@ -187,7 +187,7 @@ params:
           - "Experimental"
         links:
           - icon: fab fa-bandcamp
-            url: https://jordan-white.bandcamp.com/album/live-klangrausch
+            url: https://jordan-white.bandcamp.com/
           - icon: fab fa-youtube
             url: https://www.youtube.com/watch?app=desktop&v=6VpF7hmT5Gg
 
