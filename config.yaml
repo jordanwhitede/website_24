@@ -156,7 +156,7 @@ params:
     content: |-
       I'm a guitarist, composer, improviser, organiser and teacher. I'm from Orange, NSW, Australia, but have lived in Melbourne, Leipzig and Weimar, and now live in Cologne, Germany.
 
-      I play and compose jazz music, and I work as a solo artist both with guitar and SuperCollider. I curate and organise the festival and concert series Come Closer together with my dear friend Peter Ehwald, and I'm currently working on my new album "Music for Imaginary Spaces."
+    I play and compose jazz music, and I work as a solo artist both with guitar and SuperCollider. I curate and organise the festival and concert series Come Closer together with my dear friend Peter Ehwald, and I'm currently working on my new album "Music for Imaginary Spaces." This website is being redone but should mostly work now anyway :)
 
   # projects
   projects:
@@ -206,6 +206,19 @@ params:
             url: https://www.youtube.com/watch?app=desktop&v=6VpF7hmT5Gg
           - icon: fab fa-instagram
             url: https://www.instagram.com/come_closer_weimar/
+
+      - title: Music for Imaginary Spaces
+        content: A new project featuring six jazz musicians and experimental reverb algorithms coded in SuperCollider, to be released May 5th
+        image: /images/masihne.jpg
+        featured: 
+          name: More...
+          link: /music/music-for-imaginary-spaces
+        badges: 
+          - "Music"
+          - "Composition"
+          - "Jazz"
+        links: 
+
 
   other: 
     enable: true
