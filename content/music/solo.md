@@ -10,7 +10,7 @@ social: false
 
 <br />
 
-I'm active in solo contexts both as a guitarist and an electronic performer - ideally, combining both. In the last year I've released three new solo albums - one developed over a long time with a bunch of great guests, the other two recorded live on tour at locations in Weimar and Gera. They can all be bought [here](https://www.jordan-white.bandcamp.com).
+I'm active in solo contexts both as a guitarist and an electronic performer - ideally, combining both. In the last year I've released three new solo albums - one developed over a long time with a bunch of great guests, the other two recorded live on tour at locations in Weimar and Gera. They can all be bought [on bandcamp](https://www.jordan-white.bandcamp.com).
 
 <br />
 
