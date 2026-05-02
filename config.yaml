@@ -139,7 +139,7 @@ params:
           url: https://www.youtube.com/@jordanwhite100
         - icon: fab fa-instagram
           url: https://www.instagram.com/imjordanwhite11
-        - icon: fab fa-envelope
+        - icon: fas fa-envelope
           url: https://jordanwhitemusic.substack.com
             #      customIcons:
             #- icon: /fav.png
