@@ -15,6 +15,8 @@ White recorded, recomposed and adjusted various parts of the music over the cour
 
 Release coming 6.5.25 via [AUT Records](https://www.autrecords.com/).
 
+More detailed info [on my substack!](https://substack.com/home/post/p-195851339)
+
 Jordan White - Guitar, Composition, Production, Programming
 
 [Elena Kakaliagou](https://www.elenakakaliagou.com/) - Horn
