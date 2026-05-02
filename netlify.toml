@@ -3,7 +3,7 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.145.0"  # Use a recent stable version
+  HUGO_VERSION = "0.161.0"  # Use a recent stable version
 
 # Ensure submodules are initialized
 [build.processing]
