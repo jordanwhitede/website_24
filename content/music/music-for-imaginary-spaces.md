@@ -16,10 +16,15 @@ White recorded, recomposed and adjusted various parts of the music over the cour
 Release coming 6.5.25 via [AUT Records](https://www.autrecords.com/).
 
 Jordan White - Guitar, Composition, Production, Programming
+
 [Elena Kakaliagou](https://www.elenakakaliagou.com/) - Horn
+
 [Carlotta Armbruster](https://carlottaarmbruster.wordpress.com/) - Trombone
+
 [Georg Demel](https://georgdemel.de/) - Trombone
+
 [Claire Cross](https://www.clairecross.com.au/) - Electric Bass
+
 [Thomas Sauerborn](https://thomassauerborn.de/) - Drums, Cymbals
 
 
