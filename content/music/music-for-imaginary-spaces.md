@@ -13,7 +13,7 @@ Music for Imaginary Spaces comes from Jordan White’s long-standing interest in
 
 White recorded, recomposed and adjusted various parts of the music over the course of five recording sessions in 2025. Music for Imaginary Spaces is the culmination of several years of preparation, but it’s also the first in a series of new projects. So, enjoy this album, and stay tuned!
 
-Release coming 6.5.25 via [AUT Records](https://www.autrecords.com/).
+Listen [here.](https://ffm.to/7zoj9za)
 
 More detailed info [on my substack!](https://substack.com/home/post/p-195851339)
 

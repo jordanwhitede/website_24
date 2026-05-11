@@ -158,7 +158,7 @@ params:
     content: |-
       I'm a guitarist, composer, improviser, organiser and teacher. I'm from Orange, NSW, Australia, but have lived in Melbourne, Leipzig and Weimar, and now live in Cologne, Germany.
 
-      I play and compose jazz music, and I work as a solo artist both with guitar and SuperCollider. I curate and organise the festival and concert series Come Closer together with my dear friend Peter Ehwald, and I'm currently working on my new album "Music for Imaginary Spaces." This website is being redone but should mostly work now anyway :)
+      I play and compose jazz music, and I work as a solo artist both with guitar and SuperCollider. I curate and organise the festival and concert series Come Closer together with my dear friend Peter Ehwald. My new album, "Music for Imaginary Spaces", is out now.
 
 
   # projects
@@ -221,6 +221,10 @@ params:
           - "Composition"
           - "Jazz"
         links: 
+          - icon: fab fa-spotify
+            url:  https://open.spotify.com/album/5XaV0RUCocNxWtqWgim14E
+          - icon: fab fa-bandcamp
+            url:  https://autrecords.bandcamp.com/album/music-for-imaginary-spaces
 
 
   other: 
